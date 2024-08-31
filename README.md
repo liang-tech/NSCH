@@ -1,2 +1,2 @@
 # NSCH
-A phase-field model for two-phase flow
+A phase-field model for incompressible two-phase flow
